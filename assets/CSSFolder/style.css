@@ -198,7 +198,7 @@ ul {
 
 main {
     padding-top: 50px;
-    background-image: url(../Images/bodybackground.svg);
+    /* background-image: url(../Images/bodybackground.svg); */
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
