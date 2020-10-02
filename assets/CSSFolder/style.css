@@ -231,6 +231,14 @@ h2 {
     padding-left: 10%;
 }
 
+.Perhatikan{
+    padding: 1% 5%;
+}
+
+.Perhatikan h2{
+    padding: 0;
+    text-align: center;
+}
 .container {
     padding: 25px;
 }
