@@ -49,6 +49,10 @@ h3 {
     display: grid;
 }
 
+.blue{
+    color: #85e8f5;
+    text-shadow: 0px 0px 7px rgba(56, 54, 54, 1);
+}
 #section-a {
     grid-area: a;
 }
@@ -240,7 +244,7 @@ h2 {
     text-align: center;
 }
 .container {
-    padding: 25px;
+    padding: 30px;
 }
 
 .namadesa {
@@ -251,9 +255,15 @@ h2 {
 
 .IndexHomePage {
     padding: 20px;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     grid-column-gap: 20px;
-    grid-template-areas: "a b" "a b" "a b" "a b";
+    grid-row-gap: 20px;
+    grid-template-areas: 
+    "a a b b" 
+    "a a b b" 
+    ". c c ."
+    ". c c .";
+    
 }
 
 .floating img {
@@ -394,7 +404,12 @@ footer .dikembangkan {
         padding: 20px;
         grid-template-columns: repeat(4, 1fr);
         grid-row-gap: 50px;
-        grid-template-areas: "a a b b " "a a b b " "a a b b" "a a b b";
+        grid-template-areas: 
+        "a a b b " 
+        "a a b b " 
+        ". c c ."
+        ". c c ."
+        ;
     }
     .floating {
         width: 50%;
