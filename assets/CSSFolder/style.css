@@ -571,6 +571,10 @@ textarea.input1 {
     animation: anim-shadow 0.5s ease-in-out forwards;
   } */
 
+.Tugas-tugas{
+    justify-content: center;
+}
+
   .container-contact1-form-btn {
     display: -webkit-box;
     display: -webkit-flex;
