@@ -1,10 +1,8 @@
 # LombaUNSRI
-Tim Sertif
+Tim Sertif - ITS Surabaya 2020
 
 Fransiskus Xaverius Kevin Koesnadi
 
 Feinard
 
 Alberto Sanjaya
-
-ITS Surabaya 2020
