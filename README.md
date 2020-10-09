@@ -1,5 +1,8 @@
 # LombaUNSRI
+Tim Sertif
 
-Ini buat lomba gan,
-klo mau liat silahkan, tp jgn dicolong,
-hak cipta, awas lo
+Fransiskus Xaverius Kevin Koesnadi
+Feinard
+Alberto Sanjaya
+
+ITS Surabaya 2020
